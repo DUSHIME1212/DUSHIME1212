@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DUSHIME Don Aime Hosanna</h1>
 <h3 align="center">A passionate frontend developer from RWANDA</h3>
 
-<p align="left"> <a href="https://twitter.com/dushime ux/ui designer" target="blank"><img src="https://img.shields.io/twitter/follow/dushime ux/ui designer?logo=twitter&style=for-the-badge" alt="dushime ux/ui designer" /></a> </p>
 
 - 🔭 I’m currently working on [SCHOOL PROJECT](https://movies-pro.vercel.app/?vercelToolbarCode=jzD_e7p_rgR-uIY)
 

@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [SCHOOL PROJECT](https://movies-pro.vercel.app/?vercelToolbarCode=jzD_e7p_rgR-uIY)
 
-- 👨‍💻 All of my projects are available at [https://hosanna-dusky.vercel.app/?vercelToolbarCode=PqWR1TiILywa_zZ](https://hosanna-dusky.vercel.app/?vercelToolbarCode=PqWR1TiILywa_zZ)
+- 👨‍💻 All of my projects are available at [DUSHIME Aime] (https://dushimeaime.vercel.app/)
 
 - 💬 Ask me about **UX DESIGN,HTML,CSS,JS**
 

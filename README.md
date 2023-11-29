@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DUSHIME Don Aime Hosanna</h1>
+<h1 align="center">Hi 👋, I'm Don Aime</h1>
 <h3 align="center">A passionate frontend developer from RWANDA</h3>
 
 

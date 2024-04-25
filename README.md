@@ -5,16 +5,14 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
 
-<div align="center">
+
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou)
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count={count})
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&width={width})
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&unique={true|1|on|yes})
-</div>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />

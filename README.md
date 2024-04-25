@@ -8,8 +8,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DUSHIME1212&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DUSHIME1212&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count={count})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&width={width})
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&unique={true|1|on|yes})
 </div>
 
 ###

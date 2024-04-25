@@ -37,17 +37,9 @@
   <img src="https://profile-counter.glitch.me/DUSHIME1212/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DUSHIME1212/DUSHIME1212/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DUSHIME1212" alt="Layout with last medium posts"  />
-</div>
 
 ###
 

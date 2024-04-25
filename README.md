@@ -7,7 +7,6 @@
 
 
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou)
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count={count})
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&unique={true|1|on|yes})
 

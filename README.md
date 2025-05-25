@@ -1,6 +1,6 @@
 ## About me
 
-### I am a Product Designer based in Rwanda, passionate about creating user-centred digital experiences that are both functional and visually engaging.
+### I am a Product Designer based in Rwanda, <br/> passionate about creating user-centred digital experiences that are both functional and visually engaging.
 
 
 

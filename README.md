@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://i.pinimg.com/564x/18/f8/fc/18f8fcca26311f4f3ee08efed8a69822.jpg"  />
+<!--- <img align="left" height="350" src="https://i.pinimg.com/564x/18/f8/fc/18f8fcca26311f4f3ee08efed8a69822.jpg"  /> -->
 
 ###
 

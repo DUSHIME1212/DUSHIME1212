@@ -40,7 +40,8 @@
 
 ###
 
-<div align="center">
+<div align="start">
+ <img align="left" height="350" src="https://i.pinimg.com/564x/18/f8/fc/18f8fcca26311f4f3ee08efed8a69822.jpg"  /> 
   <a href="https://open.spotify.com/user/31gfheu7tvps2bfwoodjklloxgou">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count=5&unique=false" alt="Spotify recently played"  />
   </a>

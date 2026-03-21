@@ -1,7 +1,8 @@
 ## About me
 
-### I am a Product Designer based in Rwanda, <br/> passionate about creating user-centred <br/> digital experiences that are both functional and visually engaging.
+### 
 
+I am a designer enthusiast based in RWANDA, I craft human centered experiences and scalable systems where design meets logic, and emotion meets code. From pixel to product, I merge aesthetics with functionality to grow brands and simplify lives. I am enthusiastic about joining a dynamic team to learn UX best practices, collaborate cross functionally, and contribute to innovative tech projects
 
 ###
 

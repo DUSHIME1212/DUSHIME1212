@@ -79,7 +79,7 @@ I'm enthusiastic about joining a dynamic team to learn UX best practices, collab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=8" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=8" width="30%" />
 
 </div>
 

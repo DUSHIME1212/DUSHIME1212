@@ -1,69 +1,113 @@
-## About me
+<div align="center">
 
-### 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F9FA,100:E9ECEF&height=170&section=header&text=Dushime%20Aime%20Hosanna&fontSize=38&fontColor=212529&fontAlignY=40&desc=Product%20%26%20UX%20Designer%20%E2%80%94%20Kigali,%20Rwanda&descAlignY=58&descSize=16" width="100%"/>
 
-I am a designer enthusiast based in RWANDA, I craft human centered experiences and scalable systems where design meets logic, and emotion meets code. From pixel to product, I merge aesthetics with functionality to grow brands and simplify lives. I am enthusiastic about joining a dynamic team to learn UX best practices, collaborate cross functionally, and contribute to innovative tech projects
+<a href="https://github.com/DUSHIME1212">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1200&color=495057&center=true&vCenter=true&width=560&lines=Designing+human-centered+experiences;Where+design+meets+logic;From+pixel+to+product;Open+to+UX+%2F+Product+Design+roles" alt="Typing SVG" />
+</a>
 
-###
-
-###
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/aimehosanna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dj_matt360/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/dushime-aime-hosanna-32763625a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mdonavan33) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23259023/don-aime) 
-
-<!-- # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-<!--- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-// ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<!--- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-<!--- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white).
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  -->
-<!--- # 📊 GitHub Stats:-->
-
-<!--- ![](https://github-readme-stats.vercel.app/api?username=DUSHIME1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=DUSHIME1212&theme=dark&hide_border=false)<br/> -->
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-
-<br clear="both">
-
-<!--- <img align="left" height="350" src="https://i.pinimg.com/564x/18/f8/fc/18f8fcca26311f4f3ee08efed8a69822.jpg"  /> -->
-
-###
-
-<div align="start">
- <img align="left" height="350" src="https://i.pinimg.com/564x/18/f8/fc/18f8fcca26311f4f3ee08efed8a69822.jpg"  /> 
-  <a href="https://open.spotify.com/user/31gfheu7tvps2bfwoodjklloxgou">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
-###
+<br/>
+
+## 👋 About Me
+
+I'm a designer enthusiast based in **Rwanda**, crafting human-centered experiences and scalable systems where design meets logic, and emotion meets code. From pixel to product, I merge aesthetics with functionality to grow brands and simplify lives.
+
+I'm enthusiastic about joining a dynamic team to learn UX best practices, collaborate cross-functionally, and contribute to innovative tech projects.
+
+<br/>
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DUSHIME1212/count.svg?"  />
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/aimehosanna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dj_matt360/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dushime-aime-hosanna-32763625a/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mdonavan33)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23259023/don-aime)
+
 </div>
 
+<br/>
 
-<br clear="both">
+## 🛠 Tech Stack
 
+<div align="center">
 
-###
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Design & 3D**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+**Cloud & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DUSHIME1212&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&layout=compact&theme=default&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DUSHIME1212&theme=default&hide_border=true" width="65%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DUSHIME1212&theme=minimal&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+## 🎧 Now Playing
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/31gfheu7tvps2bfwoodjklloxgou">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gfheu7tvps2bfwoodjklloxgou&count=5&unique=false" alt="Spotify recently played" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://profile-counter.glitch.me/DUSHIME1212/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9ECEF,100:F8F9FA&height=100&section=footer" width="100%"/>
+
+</div>

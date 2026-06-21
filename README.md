@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F9FA,100:E9ECEF&height=170&section=header&text=Dushime%20Aime%20Hosanna&fontSize=38&fontColor=212529&fontAlignY=40&desc=Product%20%26%20UX%20Designer%20%E2%80%94%20Kigali,%20Rwanda&descAlignY=58&descSize=16" width="100%"/>
-
 <a href="https://github.com/DUSHIME1212">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1200&color=495057&center=true&vCenter=true&width=560&lines=Designing+human-centered+experiences;Where+design+meets+logic;From+pixel+to+product;Open+to+UX+%2F+Product+Design+roles" alt="Typing SVG" />
 </a>

@@ -77,16 +77,21 @@ I'm enthusiastic about joining a dynamic team to learn UX best practices, collab
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DUSHIME1212&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&layout=compact&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUSHIME1212&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=8" width="60%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DUSHIME1212&theme=default&hide_border=true" width="65%" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DUSHIME1212&theme=minimal&hide_border=true" width="100%" />
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/DUSHIME1212/DUSHIME1212/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -105,8 +110,6 @@ I'm enthusiastic about joining a dynamic team to learn UX best practices, collab
 <br/>
 
 <div align="center">
-
-![Profile Views](https://profile-counter.glitch.me/DUSHIME1212/count.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9ECEF,100:F8F9FA&height=100&section=footer" width="100%"/>
 

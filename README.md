@@ -6,9 +6,9 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.gitskins.com/api/section/system-scan?username=dushime1212&theme=aurora" width="100%" alt="ASCII profile scan" />
-</p>
+</p> -->
 
 <br />
 

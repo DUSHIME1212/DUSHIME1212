@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DUSHIME1212">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1200&color=495057&center=true&vCenter=true&width=560&lines=Designing+human-centered+experiences;Where+design+meets+logic;From+pixel+to+product;Open+to+UX+%2F+Product+Design+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=495057&center=true&vCenter=true&width=560&lines=Designing+human-centered+experiences;Where+design+meets+logic;From+pixel+to+product;Open+to+UX+%2F+Product+Design+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,10 +46,10 @@
 <h2 align="center">🧰 Languages & Tools I Have Placed My Hands On</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,dart&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,jquery,bootstrap,tailwind&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,vercel,gcp&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,dart,py&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,electron,jquery,bootstrap&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,styledcomponents&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,vercel,gcp,githubactions,git&perline=9" />
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -61,6 +61,19 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
